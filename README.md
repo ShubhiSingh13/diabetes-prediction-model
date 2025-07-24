@@ -2,7 +2,7 @@
 A machine learning model to predict diabetes using health data.
 # 🩺 Diabetes Prediction Model
 
-A machine learning model built to predict whether a person is diabetic or not using medical attributes.
+A supervised machine learning model trained on the PIMA Indian Diabetes dataset to predict the likelihood of diabetes based on key medical indicators. Designed to support early diagnosis and healthcare decision-making.
 
 ---
 
